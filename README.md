@@ -62,9 +62,9 @@ Atualmente busco oportunidades como Desenvolvedor Júnior ou Estagiário, onde e
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthiviz&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arthiviz&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthiviz&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthiviz&layout=compact&theme=tokyonight)
 
 ---
 
