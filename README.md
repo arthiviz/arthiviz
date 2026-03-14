@@ -33,7 +33,6 @@ Atualmente busco oportunidades como Desenvolvedor Júnior ou Estagiário, onde e
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
 ### 🎨 Front-end
-### 🎨 Front-end
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
